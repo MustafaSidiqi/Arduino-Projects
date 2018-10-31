@@ -1,0 +1,144 @@
+Current Date / Time: 15/11/2015  23:52:25
+
+Transducer A:  Humidity: 29.00 % Temperature: 25.00 *C      77.00 *F  Heat index: 77.60 *F
+
+Transducer B:  Humidity: 30.00 % Temperature: 25.00 *C      77.00 *F  Heat index: 77.67 *F
+
+Current Date / Time: 15/11/2015  23:57:28
+
+Transducer A:  Humidity: 29.00 % Temperature: 25.00 *C      77.00 *F  Heat index: 77.60 *F
+
+Transducer B:  Humidity: 30.00 % Temperature: 25.00 *C      77.00 *F  Heat index: 77.67 *F
+
+Current Date / Time: 16/11/2015  0:2:31
+
+Transducer A:  Humidity: 28.00 % Temperature: 25.00 *C      77.00 *F  Heat index: 77.54 *F
+
+Transducer B:  Humidity: 30.00 % Temperature: 25.00 *C      77.00 *F  Heat index: 77.67 *F
+
+Current Date / Time: 16/11/2015  0:7:34
+
+Transducer A:  Humidity: 28.00 % Temperature: 26.00 *C      78.80 *F  Heat index: 78.39 *F
+
+Transducer B:  Humidity: 30.00 % Temperature: 25.00 *C      77.00 *F  Heat index: 77.67 *F
+
+Current Date / Time: 16/11/2015  0:12:36
+
+Transducer A:  Humidity: 29.00 % Temperature: 27.00 *C      80.60 *F  Heat index: 79.49 *F
+
+Transducer B:  Humidity: 29.00 % Temperature: 25.00 *C      77.00 *F  Heat index: 77.60 *F
+
+Current Date / Time: 16/11/2015  0:17:39
+
+Transducer A:  Humidity: 29.00 % Temperature: 25.00 *C      77.00 *F  Heat index: 77.60 *F
+
+Transducer B:  Humidity: 31.00 % Temperature: 24.00 *C      75.20 *F  Heat index: 77.07 *F
+
+Current Date / Time: 16/11/2015  0:22:42
+
+Transducer A:  Humidity: 38.00 % Temperature: 27.00 *C      80.60 *F  Heat index: 80.18 *F
+
+Transducer B:  Humidity: 31.00 % Temperature: 24.00 *C      75.20 *F  Heat index: 77.07 *F
+
+Current Date / Time: 16/11/2015  0:25:43
+
+Transducer A:  Humidity: 31.00 % Temperature: 27.00 *C      80.60 *F  Heat index: 79.63 *F
+
+Transducer B:  Humidity: 30.00 % Temperature: 25.00 *C      77.00 *F  Heat index: 77.67 *F
+
+Current Date / Time: 16/11/2015  0:30:46
+
+Transducer A:  Humidity: 30.00 % Temperature: 27.00 *C      80.60 *F  Heat index: 79.56 *F
+
+Transducer B:  Humidity: 30.00 % Temperature: 25.00 *C      77.00 *F  Heat index: 77.67 *F
+
+Current Date / Time: 16/11/2015  0:35:49
+
+Transducer A:  Humidity: 28.00 % Temperature: 25.00 *C      77.00 *F  Heat index: 77.54 *F
+
+Transducer B:  Humidity: 30.00 % Temperature: 25.00 *C      77.00 *F  Heat index: 77.67 *F
+
+Current Date / Time: 16/11/2015  0:40:51
+
+Transducer A:  Humidity: 29.00 % Temperature: 25.00 *C      77.00 *F  Heat index: 77.60 *F
+
+Transducer B:  Humidity: 30.00 % Temperature: 24.00 *C      75.20 *F  Heat index: 77.00 *F
+
+Current Date / Time: 16/11/2015  0:45:54
+
+Transducer A:  Humidity: 29.00 % Temperature: 24.00 *C      75.20 *F  Heat index: 76.93 *F
+
+Transducer B:  Humidity: 30.00 % Temperature: 24.00 *C      75.20 *F  Heat index: 77.00 *F
+
+Current Date / Time: 16/11/2015  0:50:57
+
+Transducer A:  Humidity: 29.00 % Temperature: 24.00 *C      75.20 *F  Heat index: 76.93 *F
+
+Transducer B:  Humidity: 30.00 % Temperature: 24.00 *C      75.20 *F  Heat index: 77.00 *F
+
+Current Date / Time: 16/11/2015  0:56:0
+
+Transducer A:  Humidity: 29.00 % Temperature: 24.00 *C      75.20 *F  Heat index: 76.93 *F
+
+Transducer B:  Humidity: 30.00 % Temperature: 24.00 *C      75.20 *F  Heat index: 77.00 *F
+
+Current Date / Time: 16/11/2015  1:1:3
+
+Transducer A:  Humidity: 29.00 % Temperature: 24.00 *C      75.20 *F  Heat index: 76.93 *F
+
+Transducer B:  Humidity: 30.00 % Temperature: 24.00 *C      75.20 *F  Heat index: 77.00 *F
+
+Current Date / Time: 16/11/2015  1:6:6
+
+Transducer A:  Humidity: 29.00 % Temperature: 24.00 *C      75.20 *F  Heat index: 76.93 *F
+
+Transducer B:  Humidity: 30.00 % Temperature: 24.00 *C      75.20 *F  Heat index: 77.00 *F
+
+Current Date / Time: 16/11/2015  1:11:9
+
+Transducer A:  Humidity: 30.00 % Temperature: 24.00 *C      75.20 *F  Heat index: 77.00 *F
+
+Transducer B:  Humidity: 30.00 % Temperature: 24.00 *C      75.20 *F  Heat index: 77.00 *F
+
+Current Date / Time: 16/11/2015  1:16:12
+
+Transducer A:  Humidity: 30.00 % Temperature: 24.00 *C      75.20 *F  Heat index: 77.00 *F
+
+Transducer B:  Humidity: 30.00 % Temperature: 24.00 *C      75.20 *F  Heat index: 77.00 *F
+
+Current Date / Time: 16/11/2015  1:21:14
+
+Transducer A:  Humidity: 30.00 % Temperature: 23.00 *C      73.40 *F  Heat index: 76.52 *F
+
+Transducer B:  Humidity: 30.00 % Temperature: 23.00 *C      73.40 *F  Heat index: 76.52 *F
+
+Current Date / Time: 16/11/2015  1:26:17
+
+Transducer A:  Humidity: 30.00 % Temperature: 23.00 *C      73.40 *F  Heat index: 76.52 *F
+
+Transducer B:  Humidity: 30.00 % Temperature: 23.00 *C      73.40 *F  Heat index: 76.52 *F
+
+Current Date / Time: 16/11/2015  1:31:20
+
+Transducer A:  Humidity: 30.00 % Temperature: 23.00 *C      73.40 *F  Heat index: 76.52 *F
+
+Transducer B:  Humidity: 31.00 % Temperature: 23.00 *C      73.40 *F  Heat index: 76.60 *F
+
+Current Date / Time: 16/11/2015  1:36:23
+
+Transducer A:  Humidity: 30.00 % Temperature: 23.00 *C      73.40 *F  Heat index: 76.52 *F
+
+Transducer B:  Humidity: 31.00 % Temperature: 23.00 *C      73.40 *F  Heat index: 76.60 *F
+
+Current Date / Time: 16/11/2015  1:41:26
+
+Transducer A:  Humidity: 30.00 % Temperature: 23.00 *C      73.40 *F  Heat index: 76.52 *F
+
+Transducer B:  Humidity: 31.00 % Temperature: 23.00 *C      73.40 *F  Heat index: 76.60 *F
+
+Current Date / Time: 16/11/2015  1:46:29
+
+Transducer A:  Humidity: 30.00 % Temperature: 23.00 *C      73.40 *F  Heat index: 76.52 *F
+
+Transducer B:  Humidity: 31.00 % Temperature: 23.00 *C      73.40 *F  Heat index: 76.60 *F
+
